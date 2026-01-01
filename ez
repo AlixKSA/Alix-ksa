@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name         Mope.io الجديد مدموج
-// @version      1.0
-// @description  زر 👁️ لإخفاء/إظهار قائمة RVC + شريط تمرير للتحكم بالـ Zoom في mope.io
-// @match        *://mope.io/*
-// @match        *://beta.mope.io/*
-// @grant        none
-// ==/UserScript==
-
 (function() {
   "use strict";
 
