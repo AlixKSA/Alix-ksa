@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         وهههممم
+// @name         Alix-MOD
 // @match        *://mope.io/*
 // @grant        none
 // @run-at       document-start
